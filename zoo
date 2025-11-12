@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+       
+         <title>tiger</title>
+
+         
+    </head>
+    <body>
+
+        <center>
+            <nav> <p><b> الصفحة الرئيسة &nbsp; &nbsp; فصيلته  &nbsp; &nbsp; موطنه &nbsp;  حدائق &nbsp;   الملخص </b></p></nav>
+        </center>
+        
+            <h1 align="center"><i>حدائق </i></h1>
+            <hr color="red">
+            <p align="right"><b> أهم الحدائق التي تتواجد فيها النمور:</b></p>
+            <ol dir="rtl"> 
+                
+            
+                <li>حديقة الاسود في تركيا</li>
+                <img src="images-vidoes/Turkey.jpg" width="400" height="300">
+               <li>حديقة سفاري هانغتشو في الصين </li>
+               <img src="images-vidoes/China.jpg" width="400" height="300">
+               <li> حديقة الحيوان بالجيزة في مصر </li>
+               <img src="images-vidoes/Egpt.jpg" width="400" height="300">
+               <li> حديقة كولومبوس للحيوانات في أمريكا </li>
+               <img src="images-vidoes/Amarica.jpg" width="400" height="300">
+            
+        
+            </ol>
+        
+    </body>
+
+</html>
